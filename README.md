@@ -67,5 +67,15 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
-# COVID-19
+# COVID-19 Tracker
 
+[![covid19.png](https://i.postimg.cc/T1FmVbYh/covid19.png)](https://postimg.cc/T5jpGpbX)
+
+## [Live Site](https://covid-19-tracker-rohit523.herokuapp.com/)
+
+### Using React, Charts.JS and Material UI.
+
+API used: https://covid19.mathdro.id/api
+
+Setup:
+- run ```npm i && npm start```
