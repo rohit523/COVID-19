@@ -152,7 +152,8 @@ export default {
   tableHeading: {
     textAlign: "center",
     marginTop: "2.5rem",
-    fontSize: "3rem",
+    fontSize: "2rem",
+    color: "#f7287b",
 
     [sizes.down("lg")]: {
       fontSize: "2.5rem",

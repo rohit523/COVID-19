@@ -118,14 +118,10 @@ class CovidApp extends Component {
   }
 
   render() {
-    const { classes, setDarkMode, isDarkMode } = this.props;
+    const { classes, isDarkMode } = this.props;
     const {
-      mapData,
-      isLoading,
       data,
       districtLevel,
-      expanded,
-      updates,
     } = this.state;
 
     return (

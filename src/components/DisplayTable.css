@@ -7,7 +7,8 @@ table {
     text-align: left;
     margin-right: 1rem;
     margin-left: 1rem;
-    color: #196ecf;
+    color: #f7287b;
+    /* color: #196ecf; */
     /* color: #1A1053; */
     /* border-bottom: 2px solid black; */
   }
@@ -24,7 +25,8 @@ table {
     padding: 1rem 2rem;
     text-align: left;
     margin-bottom: 1px;
-    background-color: #196ecf;
+    background-color: #f7287b;
+    /* background-color: #196ecf; */
     /* background-color: #1A1053; */
     color: #fff;
   
@@ -52,7 +54,8 @@ table {
   }
   
   .state-td {
-    color: #196ecf;
+    color: #f7287b;
+    /* color: #196ecf; */
     /* color: #1A1053; */
     padding: 1rem 2rem;
     margin-top: 5rem;
@@ -63,7 +66,8 @@ table {
   }
   
   .state-tr:hover {
-    background-color: #196ecf;
+    background-color: #f7287b;
+    /* background-color: #196ecf; */
     /* background-color: #1A1053; */
     transition: all .3s;
   
@@ -78,7 +82,8 @@ table {
   }
   
   .state-tr:nth-child(even):hover {
-    background-color: #196ecf;
+    background-color: #f7287b;
+    /* background-color: #196ecf; */
     /* background-color: #1A1053; */
   }
   
