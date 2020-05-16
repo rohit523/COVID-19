@@ -75,7 +75,9 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 ### Using React, Charts.JS and Material UI.
 
-API used: https://covid19.mathdro.id/api
+API's used: 
+https://covid19.mathdro.id/api
+https://api.covid19india.org/
 
 Setup:
 - run ```npm i && npm start```
