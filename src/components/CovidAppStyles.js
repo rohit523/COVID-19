@@ -135,6 +135,7 @@ export default {
   },
 
   tableContainer: {
+    // flex: '1',
     padding: "2rem",
     margin: "5rem 0",
 
@@ -146,6 +147,7 @@ export default {
     [sizes.down("sm")]: {
       margin: "1.2rem 0",
       padding: "0",
+      // width: '50%'
     },
   },
 
@@ -154,6 +156,7 @@ export default {
     marginTop: "2.5rem",
     fontSize: "2rem",
     color: "#f7287b",
+    // marginTop:"100rem",
 
     [sizes.down("lg")]: {
       fontSize: "2.5rem",

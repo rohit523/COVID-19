@@ -7,7 +7,7 @@ body {
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    width: 100% !important;
+    /* width: 100% !important; */
 }
 
 .image {
@@ -18,6 +18,9 @@ body {
 @media (max-width: 770px) {
     .container {
         margin: 0 10%;
+        width: 100%;
+        align-items: center;
+        justify-content: center;
     }
 
     .image {

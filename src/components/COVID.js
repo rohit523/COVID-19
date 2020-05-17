@@ -126,18 +126,20 @@ class CovidApp extends Component {
 
     return (
         <>
-          <div className={classes.header}>
-            <div className={classes.tableContainer}>
+          {/* <div className={classes.header}>
+            <div className={classes.tableContainer}> */}
               <h2 className={classes.tableHeading}>
                 State Wise Data (Sortable){" "}
               </h2>
-              <DisplayTable
-                tableData={data}
-                districtLevel={districtLevel}
-                isDarkMode={isDarkMode}
-              />
-            </div>
-          </div>
+            {/* </div>
+          </div> */}
+          {/* <div> */}
+          <DisplayTable
+            tableData={data}
+            districtLevel={districtLevel}
+            isDarkMode={isDarkMode}
+          />
+          {/* </div> */}
         </>
       );
     }
